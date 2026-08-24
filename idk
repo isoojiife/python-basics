@@ -1,0 +1,13 @@
+#Number Guessing Game
+print("Welcome to the number guessing game!")
+print("u will be asked 1 question")
+ask=input("Do u want to play?(yes/no:")
+if ask=="yes":
+    print("Sweet")
+elif ask=="no":
+    print("Dang it")
+else:
+    print("not an answer")
+    int(input("Pick a number"))
+    50<=0
+    
